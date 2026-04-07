@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 venv/
+data/raw/india_districts.geojson
+data/raw/india_subdistricts.geojson
+data/processed/india_districts_with_lgd.geojson
